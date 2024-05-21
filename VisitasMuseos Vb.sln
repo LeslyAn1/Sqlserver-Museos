@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisitasMuseos Vb", "VisitasMuseos Vb.vbproj", "{20FE9BE2-A3CE-4921-A633-BD41CD3C473F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FE9BE2-A3CE-4921-A633-BD41CD3C473F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FE9BE2-A3CE-4921-A633-BD41CD3C473F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FE9BE2-A3CE-4921-A633-BD41CD3C473F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FE9BE2-A3CE-4921-A633-BD41CD3C473F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A8C784D-1AF7-43DF-8C9E-5E5E59935080}
+	EndGlobalSection
+EndGlobal
